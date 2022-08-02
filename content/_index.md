@@ -1,5 +1,5 @@
 ---
-title: "Genesys Workshop"
+title: "Genesys_Workshop"
 chapter: true
 weight: 1
 ---
