@@ -4,7 +4,7 @@ chapter: true
 weight: 1
 ---
 
-# Genesys_Workshop
+# Genesys Workshop
 
 ### Welcome
 
